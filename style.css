@@ -200,7 +200,7 @@ span{
 }
 
 .typing-text span::before{
-    content: "software Developer";
+    content: "Developer";
     color: #005042;
     animation: words 20s infinite;
 }
@@ -227,7 +227,7 @@ span{
         content: "Web Developer";
     }
     21%, 40%{
-        content: "Developer"
+        content: "Front-End Developer"
     }
     41%, 60%{
         content: "Web Designer";
